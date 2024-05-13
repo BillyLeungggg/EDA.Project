@@ -1,9 +1,0 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import matplotlib as mpl
-%matplotlib inline
-plt.style.use('fivethirtyeight')
-sns.set(color_codes=True) #overide matplot libs ugly colours.
-mpl.rcParams['figure.figsize'] = [13, 8] #default figure size
